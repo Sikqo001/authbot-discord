@@ -12,3 +12,16 @@ First, you need to download the project files.
 
 ```sh
 open install.exe
+```
+This script will handle the installation process for you.
+
+### Step 3: Install Python (if not installed)
+
+If you don't have Python installed on your system, you need to run the install_python.bat script. This will install Python for you.
+
+```sh
+open install_python.bat
+```
+
+
+
