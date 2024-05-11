@@ -1,16 +1,1 @@
-<h1 align="center">Hi 👋, I'm Sikqo</h1>
-<h3 align="center">Im Free developer, if u need something discord sikq0</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sikqo001" alt="sikqo001" /></a> </p>
-
-- contact **btc2ybas@protonmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/5AXvv3kghv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5AXvv3kghv" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikqo001&show_icons=true&locale=en" alt="sikqo001" /></p>
+https://private-user-images.githubusercontent.com/125279894/329813132-6b4d6c6a-8c33-47cb-80ba-8df305f4d5fe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU0NjIxMzEsIm5iZiI6MTcxNTQ2MTgzMSwicGF0aCI6Ii8xMjUyNzk4OTQvMzI5ODEzMTMyLTZiNGQ2YzZhLThjMzMtNDdjYi04MGJhLThkZjMwNWY0ZDVmZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxMVQyMTEwMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MzQyZjdmNWYzYTBiZWYzNTU1OGQ2YzU4ZGVkNjhmZDA5ZTcxZjMyNGM5YmI5ZWU4OTk2ZGE3YjliZmRkNDBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.oRniws5A2x750pw1XgNrEHrnTK8_fxg_4rT8WjNthOo
