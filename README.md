@@ -11,4 +11,4 @@ Welcome to My Awesome Project! This guide will help you get started with install
 First, you need to download the project files. 
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
+[git clone https://github.com/your-username/your-repository.git](https://github.com/Sikqo001/authbot-discord.git)
